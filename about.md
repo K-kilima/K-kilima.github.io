@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: ini adalah web Kelompok 5
 permalink: /about/
 ---
 
